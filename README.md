@@ -43,4 +43,4 @@ cd nextjs-node-auth-jwt-2fa
 
 📹 Video Tutorial
 
-🔗 Watch on YouTube – Full walkthrough of this project
+🔗 [Watch on YouTube](https://youtu.be/H8RxNj492PY?si=yalALRRp2uHGptwO) – Full walkthrough of this project
